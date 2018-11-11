@@ -1,0 +1,2 @@
+# Referenced at /home/furkan/Documents/projects/starter/android/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:43
+-keep class com.none.starter.MainApplication { <init>(...); }
