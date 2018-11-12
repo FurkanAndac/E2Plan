@@ -4,6 +4,7 @@ ADDED from /home/furkan/Documents/projects/starter/android/app/src/main/AndroidM
 INJECTED from /home/furkan/Documents/projects/starter/android/app/src/main/AndroidManifest.xml:1:1-38:12
 INJECTED from /home/furkan/Documents/projects/starter/android/app/src/main/AndroidManifest.xml:1:1-38:12
 INJECTED from /home/furkan/Documents/projects/starter/android/app/src/main/AndroidManifest.xml:1:1-38:12
+MERGED from [:react-native-vector-icons] /home/furkan/Documents/projects/starter/node_modules/react-native-vector-icons/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-11:12
 MERGED from [:react-native-firebase] /home/furkan/Documents/projects/starter/node_modules/react-native-firebase/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-15:12
 MERGED from [com.android.support:multidex:1.0.2] /home/furkan/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/32dcc258fb329efdf4ebb67556439f66/AndroidManifest.xml:17:1-22:12
 MERGED from [com.facebook.react:react-native:0.57.1] /home/furkan/.gradle/caches/transforms-1/files-1.1/react-native-0.57.1.aar/bee5e12110f20aab963542c9be8fa4d2/AndroidManifest.xml:2:1-15:12
@@ -272,6 +273,8 @@ uses-sdk
 INJECTED from /home/furkan/Documents/projects/starter/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/furkan/Documents/projects/starter/android/app/src/main/AndroidManifest.xml
 INJECTED from /home/furkan/Documents/projects/starter/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-vector-icons] /home/furkan/Documents/projects/starter/node_modules/react-native-vector-icons/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /home/furkan/Documents/projects/starter/node_modules/react-native-vector-icons/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-firebase] /home/furkan/Documents/projects/starter/node_modules/react-native-firebase/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-firebase] /home/furkan/Documents/projects/starter/node_modules/react-native-firebase/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
 MERGED from [com.android.support:multidex:1.0.2] /home/furkan/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/32dcc258fb329efdf4ebb67556439f66/AndroidManifest.xml:20:5-43

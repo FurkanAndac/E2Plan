@@ -1,0 +1,862 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b6e9ac95-33f2-426d-a816-3f7ba0810396" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/android/.gradle/4.6/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/4.6/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.gradle/4.6/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/4.6/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.gradle/4.6/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/4.6/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.gradle/4.6/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/4.6/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.gradle/4.6/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/4.6/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.gradle/4.6/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/4.6/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.gradle/4.6/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/4.6/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.gradle/4.6/javaCompile/taskJars.bin" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/4.6/javaCompile/taskJars.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.gradle/4.6/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/4.6/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.gradle/4.6/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/4.6/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/generated/fabric/res/debug/values/com_crashlytics_build_id.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/generated/fabric/res/debug/values/com_crashlytics_build_id.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi-v2/debug.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi-v2/debug.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi-v2/values.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi-v2/values.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/single/debug.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/single/debug.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/debug-mergeJavaRes/merge-state" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/debug-mergeJavaRes/merge-state" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/debug-mergeJniLibs/merge-state" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/debug-mergeJniLibs/merge-state" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugAssets/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugAssets/merger.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-af/values-af.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-am/values-am.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ar/values-ar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-as/values-as.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-az/values-az.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-b+sr+Latn/values-b+sr+Latn.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-be/values-be.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-bg/values-bg.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-bn/values-bn.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-bs/values-bs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ca/values-ca.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-cs/values-cs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-da/values-da.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-de/values-de.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-el/values-el.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rAU/values-en-rAU.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rCA/values-en-rCA.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rGB/values-en-rGB.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rIN/values-en-rIN.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rXC/values-en-rXC.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-es-rUS/values-es-rUS.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-es/values-es.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-et/values-et.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-eu/values-eu.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fa/values-fa.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fi/values-fi.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fr-rCA/values-fr-rCA.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fr/values-fr.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-gl/values-gl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-gu/values-gu.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-h720dp-v13/values-h720dp-v13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hi/values-hi.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hr/values-hr.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hu/values-hu.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hy/values-hy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-in/values-in.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-is/values-is.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-it/values-it.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-iw/values-iw.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ja/values-ja.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ka/values-ka.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-kk/values-kk.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-km/values-km.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-kn/values-kn.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ko/values-ko.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ky/values-ky.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-large-v4/values-large-v4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ldltr-v21/values-ldltr-v21.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-lo/values-lo.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-lt/values-lt.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-lv/values-lv.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mk/values-mk.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ml/values-ml.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mn/values-mn.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mr/values-mr.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ms/values-ms.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-my/values-my.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-nb/values-nb.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ne/values-ne.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-nl/values-nl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-or/values-or.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pa/values-pa.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pl/values-pl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-port/values-port.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pt-rBR/values-pt-rBR.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pt-rPT/values-pt-rPT.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pt/values-pt.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ro/values-ro.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ru/values-ru.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-si/values-si.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sk/values-sk.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sl/values-sl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sq/values-sq.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sr/values-sr.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sv/values-sv.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw/values-sw.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ta/values-ta.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-te/values-te.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-th/values-th.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-tl/values-tl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-tr/values-tr.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-uk/values-uk.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ur/values-ur.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-uz/values-uz.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v11/values-v11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v17/values-v17.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v18/values-v18.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v21/values-v21.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v22/values-v22.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v23/values-v23.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v24/values-v24.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v25/values-v25.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v26/values-v26.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-vi/values-vi.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-watch-v20/values-watch-v20.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-xlarge-v4/values-xlarge-v4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh-rCN/values-zh-rCN.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh-rHK/values-zh-rHK.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh-rTW/values-zh-rTW.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zu/values-zu.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merger.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/packageDebug/tmp/debug/file-input-save-data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/packageDebug/tmp/debug/file-input-save-data.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/8XR68qZyPJIIm0RSSfjwyE3lNd0=" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/8XR68qZyPJIIm0RSSfjwyE3lNd0=" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/none/starter/MainApplication$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/none/starter/MainApplication$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/none/starter/MainApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/none/starter/MainApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/legacy_multidex_main_dex_list/debug/transformClassesWithMultidexlistForDebug/mainDexList.txt" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/legacy_multidex_main_dex_list/debug/transformClassesWithMultidexlistForDebug/mainDexList.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/merged_assets/debug/mergeDebugAssets/out/crashlytics-build.properties" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/merged_assets/debug/mergeDebugAssets/out/crashlytics-build.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/processed_res/debug/processDebugResources/out/resources-debug.ap_" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/processed_res/debug/processDebugResources/out/resources-debug.ap_" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values_values.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values_values.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/arch/core/R.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/arch/core/R.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/arch/lifecycle/R.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/arch/lifecycle/R.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/arch/lifecycle/livedata/core/R.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/arch/lifecycle/livedata/core/R.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/arch/lifecycle/viewmodel/R.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/arch/lifecycle/viewmodel/R.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/compat/R$attr.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/compat/R$attr.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/compat/R$bool.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/compat/R$bool.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/compat/R$color.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/compat/R$color.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/compat/R$dimen.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/compat/R$dimen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/compat/R$drawable.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/compat/R$drawable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/compat/R$id.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/compat/R$id.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/compat/R$integer.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/compat/R$integer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/compat/R$layout.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/compat/R$layout.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/compat/R$string.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/compat/R$string.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/compat/R$style.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/compat/R$style.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/compat/R$styleable.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/compat/R$styleable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/compat/R.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/compat/R.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/coreui/R$attr.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/coreui/R$attr.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/coreui/R$bool.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/coreui/R$bool.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/coreui/R$color.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/coreui/R$color.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/coreui/R$dimen.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/coreui/R$dimen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/coreui/R$drawable.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/coreui/R$drawable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/coreui/R$id.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/coreui/R$id.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/coreui/R$integer.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/coreui/R$integer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/coreui/R$layout.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/coreui/R$layout.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/coreui/R$string.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/coreui/R$string.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/coreui/R$style.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/coreui/R$style.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/coreui/R$styleable.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/coreui/R$styleable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/coreui/R.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/coreui/R.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/coreutils/R$attr.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/coreutils/R$attr.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/coreutils/R$bool.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/coreutils/R$bool.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/coreutils/R$color.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/coreutils/R$color.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/coreutils/R$dimen.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/coreutils/R$dimen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/coreutils/R$drawable.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/coreutils/R$drawable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/coreutils/R$id.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/coreutils/R$id.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/coreutils/R$integer.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/coreutils/R$integer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/coreutils/R$layout.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/coreutils/R$layout.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/coreutils/R$string.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/coreutils/R$string.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/coreutils/R$style.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/coreutils/R$style.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/coreutils/R$styleable.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/coreutils/R$styleable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/coreutils/R.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/coreutils/R.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/customtabs/R$attr.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/customtabs/R$attr.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/customtabs/R$bool.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/customtabs/R$bool.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/customtabs/R$color.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/customtabs/R$color.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/customtabs/R$dimen.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/customtabs/R$dimen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/customtabs/R$drawable.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/customtabs/R$drawable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/customtabs/R$id.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/customtabs/R$id.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/customtabs/R$integer.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/customtabs/R$integer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/customtabs/R$layout.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/customtabs/R$layout.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/customtabs/R$string.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/customtabs/R$string.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/customtabs/R$style.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/customtabs/R$style.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/customtabs/R$styleable.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/customtabs/R$styleable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/customtabs/R.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/customtabs/R.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/fragment/R$attr.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/fragment/R$attr.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/fragment/R$bool.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/fragment/R$bool.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/fragment/R$color.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/fragment/R$color.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/fragment/R$dimen.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/fragment/R$dimen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/fragment/R$drawable.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/fragment/R$drawable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/fragment/R$id.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/fragment/R$id.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/fragment/R$integer.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/fragment/R$integer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/fragment/R$layout.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/fragment/R$layout.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/fragment/R$string.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/fragment/R$string.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/fragment/R$style.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/fragment/R$style.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/fragment/R$styleable.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/fragment/R$styleable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/fragment/R.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/fragment/R.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/graphics/drawable/R$attr.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/graphics/drawable/R$attr.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/graphics/drawable/R$bool.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/graphics/drawable/R$bool.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/graphics/drawable/R$color.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/graphics/drawable/R$color.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/graphics/drawable/R$dimen.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/graphics/drawable/R$dimen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/graphics/drawable/R$drawable.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/graphics/drawable/R$drawable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/graphics/drawable/R$id.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/graphics/drawable/R$id.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/graphics/drawable/R$integer.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/graphics/drawable/R$integer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/graphics/drawable/R$layout.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/graphics/drawable/R$layout.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/graphics/drawable/R$string.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/graphics/drawable/R$string.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/graphics/drawable/R$style.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/graphics/drawable/R$style.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/graphics/drawable/R$styleable.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/graphics/drawable/R$styleable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/graphics/drawable/R.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/graphics/drawable/R.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/graphics/drawable/animated/R$attr.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/graphics/drawable/animated/R$attr.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/graphics/drawable/animated/R$bool.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/graphics/drawable/animated/R$bool.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/graphics/drawable/animated/R$color.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/graphics/drawable/animated/R$color.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/graphics/drawable/animated/R$dimen.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/graphics/drawable/animated/R$dimen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/graphics/drawable/animated/R$drawable.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/graphics/drawable/animated/R$drawable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/graphics/drawable/animated/R$id.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/graphics/drawable/animated/R$id.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/graphics/drawable/animated/R$integer.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/graphics/drawable/animated/R$integer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/graphics/drawable/animated/R$layout.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/graphics/drawable/animated/R$layout.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/graphics/drawable/animated/R$string.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/graphics/drawable/animated/R$string.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/graphics/drawable/animated/R$style.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/graphics/drawable/animated/R$style.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/graphics/drawable/animated/R$styleable.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/graphics/drawable/animated/R$styleable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/graphics/drawable/animated/R.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/graphics/drawable/animated/R.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/mediacompat/R$attr.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/mediacompat/R$attr.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/mediacompat/R$bool.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/mediacompat/R$bool.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/mediacompat/R$color.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/mediacompat/R$color.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/mediacompat/R$dimen.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/mediacompat/R$dimen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/mediacompat/R$drawable.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/mediacompat/R$drawable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/mediacompat/R$id.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/mediacompat/R$id.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/mediacompat/R$integer.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/mediacompat/R$integer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/mediacompat/R$layout.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/mediacompat/R$layout.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/mediacompat/R$string.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/mediacompat/R$string.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/mediacompat/R$style.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/mediacompat/R$style.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/mediacompat/R$styleable.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/mediacompat/R$styleable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/mediacompat/R.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/mediacompat/R.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/multidex/R.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/multidex/R.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/v4/R$attr.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/v4/R$attr.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/v4/R$bool.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/v4/R$bool.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/v4/R$color.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/v4/R$color.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/v4/R$dimen.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/v4/R$dimen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/v4/R$drawable.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/v4/R$drawable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/v4/R$id.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/v4/R$id.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/v4/R$integer.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/v4/R$integer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/v4/R$layout.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/v4/R$layout.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/v4/R$string.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/v4/R$string.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/v4/R$style.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/v4/R$style.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/v4/R$styleable.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/v4/R$styleable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/v4/R.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/v4/R.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/v7/appcompat/R$anim.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/v7/appcompat/R$anim.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/v7/appcompat/R$attr.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/v7/appcompat/R$attr.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/v7/appcompat/R$bool.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/v7/appcompat/R$bool.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/v7/appcompat/R$color.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/v7/appcompat/R$color.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/v7/appcompat/R$dimen.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/v7/appcompat/R$dimen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/v7/appcompat/R$drawable.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/v7/appcompat/R$drawable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/v7/appcompat/R$id.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/v7/appcompat/R$id.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/v7/appcompat/R$integer.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/v7/appcompat/R$integer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/v7/appcompat/R$layout.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/v7/appcompat/R$layout.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/v7/appcompat/R$string.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/v7/appcompat/R$string.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/v7/appcompat/R$style.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/v7/appcompat/R$style.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/v7/appcompat/R$styleable.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/v7/appcompat/R$styleable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/v7/appcompat/R.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/android/support/v7/appcompat/R.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/crashlytics/android/R.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/crashlytics/android/R.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/crashlytics/android/answers/R.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/crashlytics/android/answers/R.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/crashlytics/android/beta/R.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/crashlytics/android/beta/R.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/crashlytics/android/core/R.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/crashlytics/android/core/R.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/facebook/drawee/R$attr.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/facebook/drawee/R$attr.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/facebook/drawee/R$id.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/facebook/drawee/R$id.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/facebook/drawee/R$styleable.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/facebook/drawee/R$styleable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/facebook/drawee/R.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/facebook/drawee/R.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/facebook/drawee/backends/pipeline/R$attr.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/facebook/drawee/backends/pipeline/R$attr.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/facebook/drawee/backends/pipeline/R$id.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/facebook/drawee/backends/pipeline/R$id.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/facebook/drawee/backends/pipeline/R$styleable.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/facebook/drawee/backends/pipeline/R$styleable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/facebook/drawee/backends/pipeline/R.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/facebook/drawee/backends/pipeline/R.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/facebook/fbcore/R.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/facebook/fbcore/R.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/facebook/imagepipeline/R.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/facebook/imagepipeline/R.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/facebook/imagepipeline/backends/okhttp3/R.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/facebook/imagepipeline/backends/okhttp3/R.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/facebook/imagepipelinebase/R.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/facebook/imagepipelinebase/R.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/facebook/react/R$anim.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/facebook/react/R$anim.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/facebook/react/R$attr.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/facebook/react/R$attr.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/facebook/react/R$bool.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/facebook/react/R$bool.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/facebook/react/R$color.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/facebook/react/R$color.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/facebook/react/R$dimen.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/facebook/react/R$dimen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/facebook/react/R$drawable.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/facebook/react/R$drawable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/facebook/react/R$id.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/facebook/react/R$id.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/facebook/react/R$integer.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/facebook/react/R$integer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/facebook/react/R$layout.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/facebook/react/R$layout.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/facebook/react/R$string.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/facebook/react/R$string.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/facebook/react/R$style.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/facebook/react/R$style.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/facebook/react/R$styleable.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/facebook/react/R$styleable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/facebook/react/R$xml.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/facebook/react/R$xml.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/facebook/react/R.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/facebook/react/R.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/facebook/soloader/R.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/facebook/soloader/R.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/android/gms/ads/R$attr.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/android/gms/ads/R$attr.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/android/gms/ads/R$style.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/android/gms/ads/R$style.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/android/gms/ads/R$styleable.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/android/gms/ads/R$styleable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/android/gms/ads/R.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/android/gms/ads/R.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/android/gms/ads/impl/R$string.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/android/gms/ads/impl/R$string.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/android/gms/ads/impl/R.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/android/gms/ads/impl/R.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/android/gms/ads_base/R.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/android/gms/ads_base/R.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/android/gms/ads_identifier/R.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/android/gms/ads_identifier/R.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/android/gms/appinvite/R$style.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/android/gms/appinvite/R$style.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/android/gms/appinvite/R.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/android/gms/appinvite/R.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/android/gms/base/R$attr.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/android/gms/base/R$attr.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/android/gms/base/R$color.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/android/gms/base/R$color.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/android/gms/base/R$drawable.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/android/gms/base/R$drawable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/android/gms/base/R$id.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/android/gms/base/R$id.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/android/gms/base/R$string.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/android/gms/base/R$string.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/android/gms/base/R$styleable.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/android/gms/base/R$styleable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/android/gms/base/R.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/android/gms/base/R.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/android/gms/clearcut/R.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/android/gms/clearcut/R.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/android/gms/common/R$integer.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/android/gms/common/R$integer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/android/gms/common/R$string.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/android/gms/common/R$string.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/android/gms/common/R.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/android/gms/common/R.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/android/gms/flags/R.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/android/gms/flags/R.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/android/gms/gass/R.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/android/gms/gass/R.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/android/gms/measurement/api/R.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/android/gms/measurement/api/R.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/android/gms/measurement_base/R.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/android/gms/measurement_base/R.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/android/gms/phenotype/R.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/android/gms/phenotype/R.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/android/gms/stats/R.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/android/gms/stats/R.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/android/gms/tasks/R.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/android/gms/tasks/R.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/R$attr.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/R$attr.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/R$bool.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/R$bool.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/R$color.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/R$color.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/R$dimen.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/R$dimen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/R$drawable.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/R$drawable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/R$id.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/R$id.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/R$integer.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/R$integer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/R$layout.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/R$layout.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/R$string.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/R$string.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/R$style.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/R$style.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/R$styleable.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/R$styleable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/R.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/R.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/abt/R.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/abt/R.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/analytics/connector/R.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/analytics/connector/R.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/analytics/connector/impl/R.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/analytics/connector/impl/R.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/auth/R.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/auth/R.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/auth/internal/R.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/auth/internal/R.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/database/R$attr.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/database/R$attr.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/database/R$bool.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/database/R$bool.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/database/R$color.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/database/R$color.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/database/R$dimen.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/database/R$dimen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/database/R$drawable.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/database/R$drawable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/database/R$id.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/database/R$id.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/database/R$integer.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/database/R$integer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/database/R$layout.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/database/R$layout.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/database/R$string.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/database/R$string.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/database/R$style.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/database/R$style.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/database/R$styleable.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/database/R$styleable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/database/R.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/database/R.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/database/collection/R.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/database/collection/R.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/dynamiclinks/R.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/dynamiclinks/R.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/firebase_ads/R.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/firebase_ads/R.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/firebase_core/R.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/firebase_core/R.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/firebase_invites/R.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/firebase_invites/R.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/firestore/R$attr.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/firestore/R$attr.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/firestore/R$bool.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/firestore/R$bool.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/firestore/R$color.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/firestore/R$color.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/firestore/R$dimen.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/firestore/R$dimen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/firestore/R$drawable.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/firestore/R$drawable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/firestore/R$id.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/firestore/R$id.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/firestore/R$integer.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/firestore/R$integer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/firestore/R$layout.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/firestore/R$layout.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/firestore/R$string.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/firestore/R$string.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/firestore/R$style.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/firestore/R$style.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/firestore/R$styleable.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/firestore/R$styleable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/firestore/R.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/firestore/R.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/functions/R$attr.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/functions/R$attr.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/functions/R$bool.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/functions/R$bool.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/functions/R$color.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/functions/R$color.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/functions/R$dimen.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/functions/R$dimen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/functions/R$drawable.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/functions/R$drawable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/functions/R$id.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/functions/R$id.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/functions/R$integer.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/functions/R$integer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/functions/R$layout.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/functions/R$layout.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/functions/R$string.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/functions/R$string.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/functions/R$style.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/functions/R$style.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/functions/R$styleable.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/functions/R$styleable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/functions/R.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/functions/R.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/iid/R.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/iid/R.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/iid/internal/R.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/iid/internal/R.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/measurement/R.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/measurement/R.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/measurement_impl/R.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/measurement_impl/R.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/messaging/R$string.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/messaging/R$string.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/messaging/R.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/messaging/R.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/perf/R.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/perf/R.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/remoteconfig/R.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/remoteconfig/R.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/storage/R$attr.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/storage/R$attr.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/storage/R$bool.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/storage/R$bool.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/storage/R$color.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/storage/R$color.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/storage/R$dimen.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/storage/R$dimen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/storage/R$drawable.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/storage/R$drawable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/storage/R$id.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/storage/R$id.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/storage/R$integer.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/storage/R$integer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/storage/R$layout.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/storage/R$layout.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/storage/R$string.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/storage/R$string.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/storage/R$style.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/storage/R$style.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/storage/R$styleable.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/storage/R$styleable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/storage/R.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/google/firebase/storage/R.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/none/starter/BuildConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/none/starter/BuildConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/none/starter/MainActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/none/starter/MainActivity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/none/starter/MainApplication$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/none/starter/MainApplication$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/none/starter/MainApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/none/starter/MainApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/none/starter/R$anim.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/none/starter/R$anim.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/none/starter/R$attr.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/none/starter/R$attr.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/none/starter/R$bool.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/none/starter/R$bool.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/none/starter/R$color.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/none/starter/R$color.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/none/starter/R$dimen.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/none/starter/R$dimen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/none/starter/R$drawable.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/none/starter/R$drawable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/none/starter/R$id.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/none/starter/R$id.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/none/starter/R$integer.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/none/starter/R$integer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/none/starter/R$layout.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/none/starter/R$layout.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/none/starter/R$mipmap.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/none/starter/R$mipmap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/none/starter/R$string.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/none/starter/R$string.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/none/starter/R$style.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/none/starter/R$style.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/none/starter/R$styleable.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/none/starter/R$styleable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/none/starter/R$xml.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/none/starter/R$xml.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/none/starter/R.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/com/none/starter/R.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/firebase/com/protolitewrapper/R.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/firebase/com/protolitewrapper/R.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/io/fabric/sdk/android/R.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/io/fabric/sdk/android/R.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/io/invertase/firebase/R$anim.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/io/invertase/firebase/R$anim.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/io/invertase/firebase/R$attr.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/io/invertase/firebase/R$attr.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/io/invertase/firebase/R$bool.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/io/invertase/firebase/R$bool.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/io/invertase/firebase/R$color.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/io/invertase/firebase/R$color.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/io/invertase/firebase/R$dimen.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/io/invertase/firebase/R$dimen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/io/invertase/firebase/R$drawable.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/io/invertase/firebase/R$drawable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/io/invertase/firebase/R$id.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/io/invertase/firebase/R$id.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/io/invertase/firebase/R$integer.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/io/invertase/firebase/R$integer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/io/invertase/firebase/R$layout.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/io/invertase/firebase/R$layout.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/io/invertase/firebase/R$string.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/io/invertase/firebase/R$string.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/io/invertase/firebase/R$style.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/io/invertase/firebase/R$style.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/io/invertase/firebase/R$styleable.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/io/invertase/firebase/R$styleable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/io/invertase/firebase/R$xml.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/io/invertase/firebase/R$xml.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/io/invertase/firebase/R.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/io/invertase/firebase/R.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/me/leolin/shortcutbadger/R.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/me/leolin/shortcutbadger/R.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/org/webkit/android_jsc/R.class" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/92/org/webkit/android_jsc/R.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/__content__.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/FirebasePerformancePlugin/debug/__content__.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/92/com/none/starter/MainApplication$1.dex" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/92/com/none/starter/MainApplication$1.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/92/com/none/starter/MainApplication.dex" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/92/com/none/starter/MainApplication.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/__content__.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/__content__.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexMerger/debug/0/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexMerger/debug/0/classes.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexMerger/debug/0/classes3.dex" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexMerger/debug/0/classes3.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/outputs/apk/debug/app-debug.apk" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/outputs/apk/debug/app-debug.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build/outputs/logs/manifest-merger-debug-report.txt" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/outputs/logs/manifest-merger-debug-report.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/java/com/none/starter/MainApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/src/main/java/com/none/starter/MainApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/android/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Podfile" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Podfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/starter.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/ios/starter.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/starter/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/ios/starter/Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/@babel/register/.babel.7.1.5.development.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/@babel/register/.babel.7.1.5.development.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/screens/SignUp.js" beforeDir="false" afterPath="$PROJECT_DIR$/screens/SignUp.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/screens/createBottomNavigator.js" beforeDir="false" afterPath="$PROJECT_DIR$/screens/createBottomNavigator.js" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1073882069">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="js" value="1793" />
+          <entry key="json" value="117" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JSON" value="117" />
+          <entry key="JavaScript" value="1793" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="1" />
+          <entry key="js" value="10" />
+          <entry key="json" value="1" />
+          <entry key="ts" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="1" />
+          <entry key="JSON" value="1" />
+          <entry key="JavaScript" value="10" />
+          <entry key="TypeScript" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts">
+        <counts>
+          <entry key="TypeScriptServerServiceImpl" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.spring.boot.run.usages" />
+      <usages-collector id="statistics.spring.boot.mvc.usages" />
+      <usages-collector id="statistics.vcs.git.usages" />
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/App.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="77">
+              <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+              <folding>
+                <element signature="e#0#25#0" expanded="true" />
+                <element signature="e#180#220#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/screens/createBottomNavigator.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="22" column="19" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="182">
+              <caret line="24" column="41" selection-start-line="24" selection-start-column="41" selection-end-line="24" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/screens/Loading.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="39" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
+              <folding>
+                <element signature="e#14#39#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/screens/Login.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="44" column="22" selection-start-line="44" selection-start-column="22" selection-end-line="44" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/screens/Main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+              <folding>
+                <element signature="e#11#36#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/screens/SignUp.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="43" column="65" selection-start-line="43" selection-end-line="44" />
+              <folding>
+                <element signature="e#13#38#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>rcd</find>
+      <find>react-native-vector</find>
+      <find>android</find>
+      <find>=&gt;</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/screens/Profile.js" />
+        <option value="$PROJECT_DIR$/screens/DetailsScreen.java" />
+        <option value="$PROJECT_DIR$/screens/Tabs.js" />
+        <option value="$PROJECT_DIR$/App.js" />
+        <option value="$PROJECT_DIR$/screens/Main.js" />
+        <option value="$PROJECT_DIR$/screens/Loading.js" />
+        <option value="$PROJECT_DIR$/screens/SignUp.js" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/screens/createBottomNavigator.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1920" />
+    <option name="y" value="173" />
+    <option name="width" value="1336" />
+    <option name="height" value="764" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript validity issuesJavaScript</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>BadExpressionStatementJS</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="starter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="starter" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542063878571" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b6e9ac95-33f2-426d-a816-3f7ba0810396" name="Default Changelist" comment="" />
+      <created>1541952904165</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1541952904165</updated>
+      <workItem from="1541952905583" duration="24397000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="24397000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1920" y="173" width="1336" height="764" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22248062" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="TypeScript" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Buck" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3317684" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/screens/DetailsScreen.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/screens/Tabs.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
+          <folding>
+            <element signature="e#1#92#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/react-native-firebase/dist/index.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="88" column="40" selection-start-line="88" selection-start-column="40" selection-end-line="88" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/react-native-vector-icons/dist/index.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/react-native-vector-icons/Ionicons.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+          <folding>
+            <element signature="e#107#157#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/screens/Loading.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="39" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
+          <folding>
+            <element signature="e#14#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/screens/Login.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="44" column="22" selection-start-line="44" selection-start-column="22" selection-end-line="44" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/screens/Main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+          <folding>
+            <element signature="e#11#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/screens/SignUp.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="43" column="65" selection-start-line="43" selection-end-line="44" />
+          <folding>
+            <element signature="e#13#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="77">
+          <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+            <element signature="e#180#220#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="24" column="41" selection-start-line="24" selection-start-column="41" selection-end-line="24" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/screens/createBottomNavigator.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="22" column="19" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

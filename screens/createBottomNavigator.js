@@ -1,14 +1,18 @@
 import React from 'react';
-import { Button, Text, View } from 'react-native';
-import { createBottomTabNavigator } from 'react-navigation';
+import {Header} from 'react-native-elements'
+import { Button, Text, View, Platform } from 'react-native';
+import {createBottomTabNavigator} from 'react-navigation';
 import Ionicons from 'react-native-vector-icons/Ionicons';
 
 class HomeScreen extends React.Component {
     render() {
         return (
-            <View style={{ flex: 1, justifyContent: 'center', alignItems: 'center' }}>
-                <Text>Home!</Text>
-            </View>
+            <Header
+                placement="left"
+                leftComponent={{ icon: 'menu', color: '#fff' }}
+                centerComponent={{ text: 'E2Plan', style: { color: '#fff' } }}
+                rightComponent={{ icon: 'home', color: '#fff' }}
+            />
         );
     }
 }
@@ -16,9 +20,12 @@ class HomeScreen extends React.Component {
 class SettingsScreen extends React.Component {
     render() {
         return (
-            <View style={{ flex: 1, justifyContent: 'center', alignItems: 'center' }}>
-                <Text>Settings!</Text>
-            </View>
+            <Header
+                placement="left"
+                leftComponent={{ icon: 'menu', color: '#fff' }}
+                centerComponent={{ text: 'E2Plan', style: { color: '#fff' } }}
+                rightComponent={{ icon: 'home', color: '#fff' }}
+            />
         );
     }
 }
@@ -39,7 +46,6 @@ export default createBottomTabNavigator({
                 } else if (routeName === 'Settings') {
                     iconName = `md-person${focused ? '' : ''}`;
                 }
-
                 // You can return any component that you like here! We usually use an
                 // icon component from react-native-vector-icons
                 return <Ionicons name={iconName} size={horizontal ? 20 : 25} color={tintColor} />;

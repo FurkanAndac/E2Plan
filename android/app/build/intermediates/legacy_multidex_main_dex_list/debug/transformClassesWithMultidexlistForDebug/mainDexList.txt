@@ -323,6 +323,7 @@ com/google/protobuf/ExperimentalApi.class
 com/none/starter/BuildConfig.class
 com/none/starter/MainApplication$1.class
 com/none/starter/MainApplication.class
+com/oblador/vectoricons/VectorIconsPackage.class
 io/fabric/sdk/android/services/concurrency/DependsOn.class
 io/grpc/ClientInterceptor.class
 io/grpc/ExperimentalApi.class

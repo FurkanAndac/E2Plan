@@ -4,16 +4,16 @@
         "source": "/home/furkan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/77f52d78096d0a95aa9adb2b65805f34/res/drawable-xxxhdpi-v4/abc_text_select_handle_right_mtrl_light.png"
     },
     {
-        "merged": "/home/furkan/Documents/projects/starter/android/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_icon_light.xml.flat",
-        "source": "/home/furkan/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/3e899ae5927fe1ac0dbfc3093c8bd0a3/res/drawable/common_google_signin_btn_icon_light.xml"
+        "merged": "/home/furkan/Documents/projects/starter/android/app/build/intermediates/res/merged/debug/layout_abc_list_menu_item_radio.xml.flat",
+        "source": "/home/furkan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/77f52d78096d0a95aa9adb2b65805f34/res/layout/abc_list_menu_item_radio.xml"
     },
     {
         "merged": "/home/furkan/Documents/projects/starter/android/app/build/intermediates/res/merged/debug/drawable_abc_text_cursor_material.xml.flat",
         "source": "/home/furkan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/77f52d78096d0a95aa9adb2b65805f34/res/drawable/abc_text_cursor_material.xml"
     },
     {
-        "merged": "/home/furkan/Documents/projects/starter/android/app/build/intermediates/res/merged/debug/layout_abc_list_menu_item_radio.xml.flat",
-        "source": "/home/furkan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/77f52d78096d0a95aa9adb2b65805f34/res/layout/abc_list_menu_item_radio.xml"
+        "merged": "/home/furkan/Documents/projects/starter/android/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_icon_light.xml.flat",
+        "source": "/home/furkan/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/3e899ae5927fe1ac0dbfc3093c8bd0a3/res/drawable/common_google_signin_btn_icon_light.xml"
     },
     {
         "merged": "/home/furkan/Documents/projects/starter/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_star_black_36dp.png.flat",
@@ -36,16 +36,16 @@
         "source": "/home/furkan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/77f52d78096d0a95aa9adb2b65805f34/res/drawable-mdpi-v4/abc_text_select_handle_left_mtrl_light.png"
     },
     {
-        "merged": "/home/furkan/Documents/projects/starter/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
-        "source": "/home/furkan/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/3e899ae5927fe1ac0dbfc3093c8bd0a3/res/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+        "merged": "/home/furkan/Documents/projects/starter/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
+        "source": "/home/furkan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/77f52d78096d0a95aa9adb2b65805f34/res/drawable-xhdpi-v4/abc_text_select_handle_right_mtrl_dark.png"
     },
     {
         "merged": "/home/furkan/Documents/projects/starter/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
         "source": "/home/furkan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/77f52d78096d0a95aa9adb2b65805f34/res/drawable-mdpi-v4/abc_list_selector_disabled_holo_light.9.png"
     },
     {
-        "merged": "/home/furkan/Documents/projects/starter/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
-        "source": "/home/furkan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/77f52d78096d0a95aa9adb2b65805f34/res/drawable-xhdpi-v4/abc_text_select_handle_right_mtrl_dark.png"
+        "merged": "/home/furkan/Documents/projects/starter/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
+        "source": "/home/furkan/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/3e899ae5927fe1ac0dbfc3093c8bd0a3/res/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
     },
     {
         "merged": "/home/furkan/Documents/projects/starter/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_list_longpressed_holo.9.png.flat",
@@ -72,12 +72,12 @@
         "source": "/home/furkan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/77f52d78096d0a95aa9adb2b65805f34/res/drawable-xxhdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png"
     },
     {
-        "merged": "/home/furkan/Documents/projects/starter/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
-        "source": "/home/furkan/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/3e899ae5927fe1ac0dbfc3093c8bd0a3/res/drawable-mdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
-    },
-    {
         "merged": "/home/furkan/Documents/projects/starter/android/app/build/intermediates/res/merged/debug/layout_notification_template_big_media_custom.xml.flat",
         "source": "/home/furkan/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/8301e593f74b6a9c3debf54b6d8655ac/res/layout/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/home/furkan/Documents/projects/starter/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
+        "source": "/home/furkan/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/3e899ae5927fe1ac0dbfc3093c8bd0a3/res/drawable-mdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
     },
     {
         "merged": "/home/furkan/Documents/projects/starter/android/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxxhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
@@ -144,12 +144,12 @@
         "source": "/home/furkan/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/3e899ae5927fe1ac0dbfc3093c8bd0a3/res/drawable-mdpi-v4/googleg_disabled_color_18.png"
     },
     {
-        "merged": "/home/furkan/Documents/projects/starter/android/app/build/intermediates/res/merged/debug/anim_abc_slide_out_top.xml.flat",
-        "source": "/home/furkan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/77f52d78096d0a95aa9adb2b65805f34/res/anim/abc_slide_out_top.xml"
-    },
-    {
         "merged": "/home/furkan/Documents/projects/starter/android/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_icon_dark_normal.xml.flat",
         "source": "/home/furkan/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/3e899ae5927fe1ac0dbfc3093c8bd0a3/res/drawable/common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "/home/furkan/Documents/projects/starter/android/app/build/intermediates/res/merged/debug/anim_abc_slide_out_top.xml.flat",
+        "source": "/home/furkan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/77f52d78096d0a95aa9adb2b65805f34/res/anim/abc_slide_out_top.xml"
     },
     {
         "merged": "/home/furkan/Documents/projects/starter/android/app/build/intermediates/res/merged/debug/color_abc_tint_btn_checkable.xml.flat",
@@ -176,12 +176,12 @@
         "source": "/home/furkan/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/3e899ae5927fe1ac0dbfc3093c8bd0a3/res/drawable/common_google_signin_btn_text_dark_focused.xml"
     },
     {
-        "merged": "/home/furkan/Documents/projects/starter/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
-        "source": "/home/furkan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/77f52d78096d0a95aa9adb2b65805f34/res/drawable-xxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
-    },
-    {
         "merged": "/home/furkan/Documents/projects/starter/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
         "source": "/home/furkan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/77f52d78096d0a95aa9adb2b65805f34/res/drawable-xhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/home/furkan/Documents/projects/starter/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/home/furkan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/77f52d78096d0a95aa9adb2b65805f34/res/drawable-xxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
     },
     {
         "merged": "/home/furkan/Documents/projects/starter/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_star_half_black_36dp.png.flat",
@@ -536,12 +536,12 @@
         "source": "/home/furkan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/77f52d78096d0a95aa9adb2b65805f34/res/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
     },
     {
-        "merged": "/home/furkan/Documents/projects/starter/android/app/build/intermediates/res/merged/debug/drawable-ldrtl-xhdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
-        "source": "/home/furkan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/77f52d78096d0a95aa9adb2b65805f34/res/drawable-ldrtl-xhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
-    },
-    {
         "merged": "/home/furkan/Documents/projects/starter/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
         "source": "/home/furkan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/77f52d78096d0a95aa9adb2b65805f34/res/drawable-hdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/home/furkan/Documents/projects/starter/android/app/build/intermediates/res/merged/debug/drawable-ldrtl-xhdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/home/furkan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/77f52d78096d0a95aa9adb2b65805f34/res/drawable-ldrtl-xhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
         "merged": "/home/furkan/Documents/projects/starter/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
@@ -552,12 +552,12 @@
         "source": "/home/furkan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/77f52d78096d0a95aa9adb2b65805f34/res/drawable-xxhdpi-v4/abc_text_select_handle_middle_mtrl_dark.png"
     },
     {
-        "merged": "/home/furkan/Documents/projects/starter/android/app/build/intermediates/res/merged/debug/layout_abc_select_dialog_material.xml.flat",
-        "source": "/home/furkan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/77f52d78096d0a95aa9adb2b65805f34/res/layout/abc_select_dialog_material.xml"
-    },
-    {
         "merged": "/home/furkan/Documents/projects/starter/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
         "source": "/home/furkan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/77f52d78096d0a95aa9adb2b65805f34/res/drawable-xxhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/furkan/Documents/projects/starter/android/app/build/intermediates/res/merged/debug/layout_abc_select_dialog_material.xml.flat",
+        "source": "/home/furkan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/77f52d78096d0a95aa9adb2b65805f34/res/layout/abc_select_dialog_material.xml"
     },
     {
         "merged": "/home/furkan/Documents/projects/starter/android/app/build/intermediates/res/merged/debug/color_abc_secondary_text_material_dark.xml.flat",
@@ -636,20 +636,20 @@
         "source": "/home/furkan/.gradle/caches/transforms-1/files-1.1/customtabs-27.1.1.aar/a58340b646ceb2ca82097774b58cb917/res/layout/browser_actions_context_menu_page.xml"
     },
     {
-        "merged": "/home/furkan/Documents/projects/starter/android/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_icon_dark.xml.flat",
-        "source": "/home/furkan/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/3e899ae5927fe1ac0dbfc3093c8bd0a3/res/drawable/common_google_signin_btn_icon_dark.xml"
-    },
-    {
         "merged": "/home/furkan/Documents/projects/starter/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
         "source": "/home/furkan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/77f52d78096d0a95aa9adb2b65805f34/res/drawable-hdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
     },
     {
-        "merged": "/home/furkan/Documents/projects/starter/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
-        "source": "/home/furkan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/77f52d78096d0a95aa9adb2b65805f34/res/drawable-xhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png"
+        "merged": "/home/furkan/Documents/projects/starter/android/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_icon_dark.xml.flat",
+        "source": "/home/furkan/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/3e899ae5927fe1ac0dbfc3093c8bd0a3/res/drawable/common_google_signin_btn_icon_dark.xml"
     },
     {
         "merged": "/home/furkan/Documents/projects/starter/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_googleg_disabled_color_18.png.flat",
         "source": "/home/furkan/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/3e899ae5927fe1ac0dbfc3093c8bd0a3/res/drawable-hdpi-v4/googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "/home/furkan/Documents/projects/starter/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "/home/furkan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/77f52d78096d0a95aa9adb2b65805f34/res/drawable-xhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png"
     },
     {
         "merged": "/home/furkan/Documents/projects/starter/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_googleg_standard_color_18.png.flat",
@@ -676,12 +676,12 @@
         "source": "/home/furkan/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/84ab707d45a5cb7bb878f66131176d96/res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png"
     },
     {
-        "merged": "/home/furkan/Documents/projects/starter/android/app/build/intermediates/res/merged/debug/layout_redbox_view.xml.flat",
-        "source": "/home/furkan/.gradle/caches/transforms-1/files-1.1/react-native-0.57.1.aar/bee5e12110f20aab963542c9be8fa4d2/res/layout/redbox_view.xml"
-    },
-    {
         "merged": "/home/furkan/Documents/projects/starter/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_star_half_black_36dp.png.flat",
         "source": "/home/furkan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/77f52d78096d0a95aa9adb2b65805f34/res/drawable-xxhdpi-v4/abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "/home/furkan/Documents/projects/starter/android/app/build/intermediates/res/merged/debug/layout_redbox_view.xml.flat",
+        "source": "/home/furkan/.gradle/caches/transforms-1/files-1.1/react-native-0.57.1.aar/bee5e12110f20aab963542c9be8fa4d2/res/layout/redbox_view.xml"
     },
     {
         "merged": "/home/furkan/Documents/projects/starter/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
